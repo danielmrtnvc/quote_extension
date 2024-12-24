@@ -15,7 +15,7 @@ body {
     background-size: cover; /* Makes the background image cover the entire container */
     background-position: center;
     position: relative;
-    min-height: 200px; /* Ensure consistent size */
+    min-height: 100px; /* Ensure consistent size */
   }
   
   #quote-container::after {
