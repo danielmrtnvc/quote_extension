@@ -29,6 +29,7 @@ const quotes = [
   "The only limit to our realization of tomorrow will be our doubts of today. – Franklin D. Roosevelt",
   "Obsessed is just a word the lazy use to describe the dedicated. – Anonymous",
   "You miss 100% of the shots you don’t take. – Wayne Gretzky",
+  "What we do in life echoes in eternity” - Gladiator",
     "Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer. – Anonymous "
   ];
   /** 
