@@ -31,7 +31,7 @@ const quotes = [
   "You miss 100% of the shots you don’t take. – Wayne Gretzky",
   "What we do in life echoes in eternity” - Gladiator",
     "Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer. – Anonymous "
-  ];
+  ]; 
   /** 
   const images = [
     "https://via.placeholder.com/400x300/FF9A9E/FAD0C4",
