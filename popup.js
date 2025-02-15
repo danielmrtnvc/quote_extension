@@ -30,7 +30,8 @@ const quotes = [
   "Obsessed is just a word the lazy use to describe the dedicated. – Anonymous",
   "You miss 100% of the shots you don’t take. – Wayne Gretzky",
   "What we do in life echoes in eternity” - Gladiator",
-    "Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer. – Anonymous "
+    "Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer. – Anonymous ",
+    "The fact is that the greatest crimes are caused by excess and not by necessity. Men do not become tyrants in order that they may not suffer cold; and hence great is the honour bestowed, not on him who kills a thief, but on him who kills a tyrant. - Aristotle "
   ]; 
   /** 
   const images = [
